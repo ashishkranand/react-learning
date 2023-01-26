@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+.blank{
+  color: red;
+}
+.mainbody{
+  margin: 0;
+  padding: 40px;
+}
+nav{
+  background-color: black;
+  color: white;
+  padding: 5px;
+}
+nav li {
+  cursor: pointer;
+  display: inline-block;
+  padding: 5px;
+  font-size: larger;
+  font-weight: bolder;
+}
